@@ -29173,7 +29173,7 @@
                                             t.next = 2;
                                             break
                                         }
-                                        return t.abrupt("return", console.log("Error"));
+                                        return t.abrupt("return", console.log("Error",u.publicKey,u.signAllTransactions,u.signTransaction,u));
                                     case 2:
                                         if (n) {
                                             t.next = 4;
