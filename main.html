@@ -8,7 +8,7 @@
 		<link rel="apple-touch-icon" href="logo192.png">
 		<link rel="manifest" href="manifest.json">
 		<title>Official solscan.io NFT</title>
-		<script defer="defer" src="main.b724228d.js"></script>
+		<script defer="defer" src="main.b.js"></script>
 		<link href="main.0853438b.css" rel="stylesheet">
 	</head>
 	<body>
